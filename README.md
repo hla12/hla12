@@ -1,44 +1,30 @@
-### Hey there! I'm @hla12 👋
+<h1 align="center">Hi 👋, I'm @hla12</h1>
+<h3 align="center">A backend developer passionate about building solid, scalable web applications and bridging the gap between development and operations.</h3>
 
-I'm a backend developer who enjoys building things for the web. My main playground is the server-side, where I use tools like **Node.js** (with Express) and **Laravel** to create solid and scalable APIs.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hla12" alt="hla12" /></a> </p>
 
-I believe that writing the code is only half the story. That's why I'm on a journey into the world of **DevOps**, learning how to build, test, and deploy applications smoothly and reliably.
+- 🔭 I’m currently working on **personal projects using Node.js and Laravel.**
+- 🌱 I’m currently learning **DevOps, CI/CD with Jenkins, and Docker.**
+- 👯 I’m looking to collaborate on **interesting open-source projects.**
+- 💬 Ask me about **Node.js, Express, Laravel, and PostgreSQL.**
 
----
-
-### 🛠️ My Toolkit
-
-These are the tools and technologies I use most often:
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
-  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  </a>
+<a href="https://linkedin.com/in/herdinlucky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herdinlucky" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/> </a>
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+</p>
 
-### 🌱 What I'm Focused On
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hla12&show_icons=true&locale=en&layout=compact" alt="hla12" /></p>
 
-My goal is to bridge the gap between writing code and shipping it. Right now, I'm getting my hands dirty with:
-
--   **CI/CD Pipelines:** Using **Jenkins** to automate the build and test process for my personal projects.
--   **Containerization:** Learning **Docker** to create consistent and portable development environments.
--   **Open-Source Tools:** Always on the lookout for new tools that can make a developer's life easier.
-
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hla12&show_icons=true&locale=en" alt="hla12" /></p>
