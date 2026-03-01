@@ -7,13 +7,11 @@
   </a>
 </p>
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/herdinlucky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herdinlucky" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-[![My Skills](https://skillicons.dev/icons?i=go,laravel,php,react,css,firebase,flask,git,github,gitlab,html,java,jquery,mysql,postgres,nextjs,nodejs,postman,py,sentry,selenium,ts)](https://skillicons.dev)
+---
+### Skills & Tools
+[![My Skills](https://skillicons.dev/icons?i=go,laravel,php,react,css,firebase,flask,git,github,gitlab,html,java,jquery,mysql,postgres,nextjs,nodejs,postman,py,sentry,selenium,ts,jenkins)](https://skillicons.dev)
