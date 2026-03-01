@@ -2,9 +2,9 @@
 <h3 align="center">A backend developer passionate about building solid, scalable web applications and bridging the gap between development and operations.</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hla12&show_icons=true&theme=github_dark" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hla12&layout=compact&theme=github_dark" />
+  <a href="https://hla12.studio/">
+    <img width="30.5%" src="https://github-contribution-stats.vercel.app/api/?username=hla12" alt="GitHub Contribution Stats"/>
+  </a>
 </p>
 
 - 🔭 I’m currently working on **personal projects using Node.js and Laravel.**
