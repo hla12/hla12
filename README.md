@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @hla12</h1>
-<h3 align="center">A backend developer passionate about building solid, scalable web applications and bridging the gap between development and operations.</h3>
+<h3 align="center">Backend Developer & DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="https://hla12.studio/">
@@ -7,10 +7,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **personal projects using Node.js and Laravel.**
-- 🌱 I’m currently learning **DevOps, CI/CD with Jenkins, and Docker.**
-- 👯 I’m looking to collaborate on **interesting open-source projects.**
-- 💬 Ask me about **Node.js, Express, Laravel, and PostgreSQL.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,37 +16,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
-<a href="https://nodejs.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://laravel.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://postgresql.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://sequelize.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nginx.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://docker.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://jenkins.io" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
-</a>
-
-</p>
+[![My Skills](https://skillicons.dev/icons?i=go,laravel,php,react,css,firebase,flask,git,github,gitlab,html,java,jquery,mysql,postgres,nextjs,nodejs,postman,py,sentry,selenium,ts)](https://skillicons.dev)
