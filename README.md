@@ -14,4 +14,4 @@
 
 ---
 ### Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=go,laravel,php,react,css,firebase,flask,git,github,gitlab,html,java,jquery,mysql,postgres,nextjs,nodejs,postman,py,sentry,selenium,ts,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,laravel,php,react,solidity,firebase,flask,git,github,gitlab,html,java,jquery,mysql,postgres,nextjs,nginx,postman,go,ts,jenkins,bots,docker,raspberrypi,linux,debian,ubuntu)](https://skillicons.dev)
